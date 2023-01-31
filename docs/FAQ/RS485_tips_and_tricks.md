@@ -13,7 +13,7 @@ Using [QModMaster](https://sourceforge.net/projects/qmodmaster/) specific modbus
 
 Note: use 'Device Manager' to establish on what COM port the USB to RS485 convertor is located.
 
-In addition to targeted modbus commands the QModMaster software also allows scanning of the RS485 bus to find any devices. This can be usefull if you don't now the address of your device.
+In addition to targeted modbus commands the QModMaster software also allows scanning of the RS485 bus to find any devices. This can be usefull if you don't know the address of your device.
 
 ### **Verifying traffic on the bus**
 When not able to perform and modbus read/write commands it's often hard to establish the exact cause. Is the device faulty, is there a problem on the bus or is the master device not able to send a command on the RS485 bus?
